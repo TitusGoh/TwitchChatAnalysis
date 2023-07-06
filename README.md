@@ -1,4 +1,4 @@
-# TwitchChatAnalysis
+# TwitchEmoteAnalysis
 Tools:
 - JavaScript
 - CSS
